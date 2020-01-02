@@ -1,0 +1,24 @@
+type: code
+files:
+- name: tests.py
+  visible: false
+  text: |-
+    from test_helper import check_samples
+
+    if __name__ == '__main__':
+        check_samples(samples=[])
+  learner_created: false
+- name: task.py
+  visible: true
+  text: |-
+    user_city = "Istanbul"
+
+    def change_city(new_user_city):
+        user_city = new_user_city
+
+    change_city("Paris")
+    print(user_city)
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6344
+status: Solved
+record: -1

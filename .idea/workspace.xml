@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ab238a0-9a2f-41cd-9fe7-748d73a30e15" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UwT7h34XpAlVqQXodk1puX4tdu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.task (5)">
+    <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coffee Machine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (20)/Factorial of 3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems (20)/Factorial of 3/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coffee Machine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (29)/Vowels and consonants" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems (29)/Vowels and consonants/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coffee Machine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (27)/A mean of n" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems (27)/A mean of n/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coffee Machine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (30)/Count up the squares" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems (30)/Count up the squares/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Coffee Machine" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems (28)/Lucky 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems (28)/Lucky 7/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task (5)" />
+        <item itemvalue="Python.task (2)" />
+        <item itemvalue="Python.task (1)" />
+        <item itemvalue="Python.task" />
+        <item itemvalue="Python.task (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ab238a0-9a2f-41cd-9fe7-748d73a30e15" name="Default Changelist" comment="" />
+      <created>1576266491691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576266491691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="89" key="#Inspections" timestamp="1576420965849">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="89" key="#Inspections/0.0.1920.1032@0.0.1920.1032" timestamp="1576420965849" />
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom" timestamp="1576952599571">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1576952599571" />
+    <state width="1864" height="259" key="GridCell.Tab.0.center" timestamp="1576952599571">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1576952599571" />
+    <state width="1864" height="259" key="GridCell.Tab.0.left" timestamp="1576952599571">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1576952599571" />
+    <state width="1864" height="259" key="GridCell.Tab.0.right" timestamp="1576952599571">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="259" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1576952599571" />
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom" timestamp="1576950986225">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1576950986225" />
+    <state width="1864" height="321" key="GridCell.Tab.1.center" timestamp="1576950986225">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1576950986225" />
+    <state width="1864" height="321" key="GridCell.Tab.1.left" timestamp="1576950986225">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1576950986225" />
+    <state width="1864" height="321" key="GridCell.Tab.1.right" timestamp="1576950986225">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1864" height="321" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1576950986225" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1577112240759">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1577112240759" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1576767971276">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1576767971276" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems (27)/A mean of n/task.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems (28)/Lucky 7/task.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" language="Python" />
+        <watch expression="i%3" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

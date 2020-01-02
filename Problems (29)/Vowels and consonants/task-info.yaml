@@ -1,0 +1,16 @@
+type: code
+files:
+- name: tests.py
+  visible: false
+  text: |-
+    from test_helper import check_samples
+
+    if __name__ == '__main__':
+        check_samples(samples=[["somegibberish","consonant\nvowel\nconsonant\nvowel\nconsonant\nvowel\nconsonant\nconsonant\nvowel\nconsonant\nvowel\nconsonant\nconsonant\n"],["normal phrase","consonant\nvowel\nconsonant\nconsonant\nvowel\nconsonant\n"],["weusedtowritewithnospaces","consonant\nvowel\nvowel\nconsonant\nvowel\nconsonant\nconsonant\nvowel\nconsonant\nconsonant\nvowel\nconsonant\nvowel\nconsonant\nvowel\nconsonant\nconsonant\nconsonant\nvowel\nconsonant\nconsonant\nvowel\nconsonant\nvowel\nconsonant\n"]])
+  learner_created: false
+- name: task.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6607
+status: Solved
+record: -1
