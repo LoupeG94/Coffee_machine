@@ -1,8 +1,0 @@
-text = str(input())
-text.replace("!", "")
-text.replace("?", "")
-text.replace(".", "")
-text.replace(",", "")
-text.strip()
-text.lower()
-print(text)
